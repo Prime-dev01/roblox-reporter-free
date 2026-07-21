@@ -1,5 +1,4 @@
-Roblox Mass Reporter TOOL :
-
+IMP : NOTE
 download python previous version 3.11 or 3.12 -
 not latest;
 
@@ -7,8 +6,7 @@ not latest;
 
 A free automated Roblox reporting tool that rotates through fresh accounts to submit reports. No paid CAPTCHA services, proxies, or API keys required.
 
-> **Disclaimer:** Use this project responsibly and only in accordance with Roblox's Terms of Use and applicable laws.
-
+> **Disclaimer:** The tool and creator's are not responsible for anything. (well there is no btw🥀)
 ---
 
 # ✨ Features
