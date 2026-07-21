@@ -6,7 +6,7 @@ not latest;
 
 A free automated Roblox reporting tool that rotates through fresh accounts to submit reports. No paid CAPTCHA services, proxies, or API keys required.
 
-> **Disclaimer:** The tool and creator's are not responsible for anything. (well there is no btw🥀)
+> **Disclaimer:** The tool and creator's are not responsible for anything. (well there is no risk in using it 🥀)
 ---
 
 # ✨ Features
